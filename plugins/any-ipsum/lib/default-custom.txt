@@ -1,67 +1,75 @@
-beef
-chicken
-pork
-bacon
-chuck
-short loin
-sirloin
-shank
-flank
-sausage
-pork belly
-shoulder
-cow
-pig
-ground round
-hamburger
-meatball
-tenderloin
-strip steak
-t-bone
-ribeye
-shankle
-tongue
-tail
-pork chop
-pastrami
-corned beef
-jerky
-ham
-fatback
-ham hock
-pancetta
-pork loin
-short ribs
-spare ribs
-beef ribs
-drumstick
-tri-tip
-ball tip
-venison
-turkey
-biltong
-rump
-jowl
-salami
-bresaola
-meatloaf
-brisket
-boudin
-andouille
-capicola
-swine
-kielbasa
-frankfurter
-prosciutto
-filet mignon
-leberkas
-turducken
-doner
-kevin
-landjaeger
-porchetta
-alcatra
-picanha
-cupim
-burgdoggen
-buffalo
+jetpack
+launches
+email 
+marketing 
+tools 
+with 
+creative
+integration
+WooCommerce
+triggered 
+store emails 
+coming soon
+themes 
+enters 
+WordPress 
+membership 
+plugin 
+market
+acquires 
+restrict 
+content
+Gutenberg
+brings 
+block
+based 
+widgets
+experimental
+stage
+server
+nginx
+performance
+art
+spin up
+Google
+fairly
+opinionated
+design
+decision
+multiple
+color
+palettes
+feel
+entirely
+experimental
+development
+branch
+stage
+nearly
+complete
+ready
+production
+web
+cache
+paragraph
+WordPress
+contributors
+discussing
+different
+strategies
+responding
+Facebook
+Instagram
+user
+embed
+content
+pasting
+understand
+longer
+causing
+increase
+support
+change
+this
+another
+droplet
