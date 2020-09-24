@@ -30,13 +30,13 @@ if ( ! class_exists( 'WPAnyIpsumSettings' ) ) {
 
 			// create default settings
 			add_option( $this->settings_key_general, array(
-					'name' => 'Bacon',
-					'start-with' => 'Bacon ipsum dolor amet',
+					'name' => 'Server',
+					'start-with' => 'Server ipsum dolor amet',
 					'querystring-all-custom' => 'all-custom',
 					'querystring-custom-and-filler' => 'custom-and-filler',
-					'button-text' => 'Give Me Bacon',
-					'all-custom-text' => 'All Meat',
-					'custom-and-filler-text' => 'Meat and Filler',
+					'button-text' => 'Give Me Server',
+					'all-custom-text' => 'All Sites',
+					'custom-and-filler-text' => 'Web and Filler',
 				), '', $autoload = 'no' );
 
 			add_option( $this->settings_key_api, array(
